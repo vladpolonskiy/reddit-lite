@@ -1,0 +1,29 @@
+.feed-item {
+  margin-top: 10px;
+  padding: 10px 10px;
+  background: #FFF;
+  border-bottom: 1px solid #eee;
+  overflow: hidden;
+  color: rgb(151, 151, 152);
+}
+
+.feed-item .title {
+  color: #000;
+  font-size: 20px;
+}
+
+.feed-item .meta {
+  font-size: 11px;
+  font-weight: 200;
+}
+
+.feed-item .content {
+  margin-top: 10px
+}
+
+.feed-item .comments a {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 14px;
+  color: rgb(135, 138, 140);
+}
