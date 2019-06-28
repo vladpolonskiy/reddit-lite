@@ -1,1 +1,1 @@
-# redit-lite
+# reddit-lite
